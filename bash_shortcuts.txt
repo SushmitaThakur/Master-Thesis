@@ -1,0 +1,25 @@
+# pcm shortcuts
+alias start_pcm='sudo pcm-sensor-server'
+alias start_pcm_detached='sudo pcm-sensor-server -d'
+alias get_pcm_id='pgrep -af pcm-sensor-server'
+
+alias goto_cryptolib='cd testSuites/cryptolib/bin'
+alias run_cryptolib='goto_crypto_lib; ./check_all_ciphers'
+
+alias goto_gift='cd testSuites/gift'
+alias compile_gift64='g++ GIFT64-128_cipher.cpp -o gift64'
+alias run_gift64='./gift64'
+alias compile_gift128='g++ GIFT128-128_cipher.cpp -o gift128'
+alias run_gift128='./gift128'
+
+alias goto_tinyaes='cd testSuites/tiny_aes'
+
+function make_cryptolib()
+{
+ cd ~/testSuites/cryptolib/
+ ./autoclean.sh
+ ./autogen.sh
+ ./configure
+ cp Makefile.default Makefile
+ make
+}
