@@ -1,0 +1,40 @@
+
+ ______________________________________________________________________ 
+
+Cipher Name: LED64 Implementation: table Start Time: 2023-12-12 18:31:37 End Time: 2023-12-12 18:31:39
+Cipher Name: LED64 Implementation: vperm Start Time: 2023-12-12 18:31:39 End Time: 2023-12-12 18:31:40
+Cipher Name: LED64 Implementation: bitslice16 Start Time: 2023-12-12 18:31:40 End Time: 2023-12-12 18:31:40
+Cipher Name: LED64 Implementation: bitslice32 Start Time: 2023-12-12 18:31:40 End Time: 2023-12-12 18:31:41
+
+ ______________________________________________________________________ 
+
+Cipher Name: LED128 Implementation: table Start Time: 2023-12-12 18:31:41 End Time: 2023-12-12 18:31:43
+Cipher Name: LED128 Implementation: vperm Start Time: 2023-12-12 18:31:43 End Time: 2023-12-12 18:31:44
+Cipher Name: LED128 Implementation: bitslice16 Start Time: 2023-12-12 18:31:44 End Time: 2023-12-12 18:31:46
+Cipher Name: LED128 Implementation: bitslice32 Start Time: 2023-12-12 18:31:46 End Time: 2023-12-12 18:31:47
+
+ ______________________________________________________________________ 
+
+Cipher Name: PRESENT80 Implementation: table Start Time: 2023-12-12 18:31:47 End Time: 2023-12-12 18:31:48
+Cipher Name: PRESENT80 Implementation: vperm Start Time: 2023-12-12 18:31:48 End Time: 2023-12-12 18:31:50
+Cipher Name: PRESENT80 Implementation: bitslice8 Start Time: 2023-12-12 18:31:50 End Time: 2023-12-12 18:31:50
+Cipher Name: PRESENT80 Implementation: bitslice16 Start Time: 2023-12-12 18:31:50 End Time: 2023-12-12 18:31:52
+
+ ______________________________________________________________________ 
+
+Cipher Name: PRESENT128 Implementation: table Start Time: 2023-12-12 18:31:52 End Time: 2023-12-12 18:31:53
+Cipher Name: PRESENT128 Implementation: vperm Start Time: 2023-12-12 18:31:53 End Time: 2023-12-12 18:31:55
+Cipher Name: PRESENT128 Implementation: bitslice8 Start Time: 2023-12-12 18:31:55 End Time: 2023-12-12 18:31:56
+Cipher Name: PRESENT128 Implementation: bitslice16 Start Time: 2023-12-12 18:31:56 End Time: 2023-12-12 18:31:57
+
+ ______________________________________________________________________ 
+
+Cipher Name: Piccolo80 Implementation: table Start Time: 2023-12-12 18:31:57 End Time: 2023-12-12 18:31:59
+Cipher Name: Piccolo80 Implementation: vperm Start Time: 2023-12-12 18:31:59 End Time: 2023-12-12 18:32:00
+Cipher Name: Piccolo80 Implementation: bitslice16 Start Time: 2023-12-12 18:32:00 End Time: 2023-12-12 18:32:01
+
+ ______________________________________________________________________ 
+
+Cipher Name: Piccolo128 Implementation: table Start Time: 2023-12-12 18:32:01 End Time: 2023-12-12 18:32:03
+Cipher Name: Piccolo128 Implementation: vperm Start Time: 2023-12-12 18:32:03 End Time: 2023-12-12 18:32:05
+Cipher Name: Piccolo128 Implementation: bitslice16 Start Time: 2023-12-12 18:32:05 End Time: 2023-12-12 18:32:06
